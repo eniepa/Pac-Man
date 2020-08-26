@@ -1,0 +1,24 @@
+﻿Pac-Man
+
+1. create clases
+	Form
+	Hero
+	Area
+	Food
+
+2. Add keyboard WASD controls movement logic
+Hero movement logic
+3. Enemy movement logic
+4. Food logic
+5. Collisions
+6. Scoring with animation
+7. Level map design
+8. Finalize, polish
+
+game rules
+
+after eating some food pac-man enters predator mode and can eat enemies
+enemies spawn every 5 seconds
+pas-man's speed incereases every time a food is eaten
+for every eaten enemy score increases by 400
+predator mode lasts 5 seconds
